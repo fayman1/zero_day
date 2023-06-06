@@ -2,11 +2,7 @@
 
 ## My learning objectives
    
-	1. What is *** vagrant ***
-
-	2. what is ** ubuntu **
-
-	3. What does the command <span style="color:blue;"> ** uname ** </span>
+	1. Understand  how both vagrant and virtual box work
 
 
 	*** CREATED BY Faith Muigai ***
